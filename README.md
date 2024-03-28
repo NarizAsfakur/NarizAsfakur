@@ -1,4 +1,23 @@
+<h1 align="center">Hi 👋, I'm Asfakur Nariz</h1>
+<h3 align="center">A passionate JavaScript (Front-End Developer)</h3>
 
+- 🔭 I’m currently working on **Dhrupad Technologies**
+
+- 🌱 I’m currently learning **MERN (MongoDB, ExpressJS, ReactJS and NodeJS)**
+
+- 👯 I’m looking to collaborate on **Front-End Development**
+
+- 🤝 I’m looking for help with **Full Stack Development (MERN Stack)**
+
+- 👨‍💻 All of my projects are available at [Asfakurnariz.rf.gd](Asfakurnariz.rf.gd)
+
+- 💬 Ask me about **Tailwind, JavaScript, React and UI UX Design**
+
+- 📫 How to reach me **asfakur.nariz@dhrupadit.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/#) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/#) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/#) 
 
